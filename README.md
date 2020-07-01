@@ -1,4 +1,4 @@
-![Algorithm schema](./findforhad.png)
+![Algorithm schema](./cover.png)
 
 ## Made With 💔 By FindForhad D‹Y‹E™
 
@@ -32,7 +32,7 @@ $ ipnode --mac
 $ ipnode --net
 ```
 
-### To Get Help
+### To View All The Commands
 
 ```
 $ ipnode --commands
