@@ -1,0 +1,30 @@
+{
+  "name": "ipnode",
+  "version": "1.1.9",
+  "description": "iFZ™ Contribution Series. Your technology partner.",
+  "main": "index.js",
+  "bin": {
+    "ipnode": "bin/ipnode.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/findforhad/ipnode.git"
+  },
+  "keywords": [
+    "ipnode",
+    "nodeip",
+    "sysip"
+  ],
+  "author": "Forhad Chowdhury",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/findforhad/ipnode/issues"
+  },
+  "homepage": "https://github.com/findforhad/ipnode#readme",
+  "dependencies": {
+    "yargs": "^15.3.1"
+  }
+}
